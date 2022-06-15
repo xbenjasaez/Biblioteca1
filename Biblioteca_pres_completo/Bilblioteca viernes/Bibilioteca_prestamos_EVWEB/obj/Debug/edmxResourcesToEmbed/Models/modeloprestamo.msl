@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="prestamos_bibliotecaModelStoreContainer" CdmEntityContainer="prestamos_bibliotecaEntities">
+    <EntitySetMapping Name="Autor">
+      <EntityTypeMapping TypeName="prestamos_bibliotecaModel.Autor">
+        <MappingFragment StoreEntitySet="Autor">
+          <ScalarProperty Name="id_Autor" ColumnName="id_Autor" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Editorial">
+      <EntityTypeMapping TypeName="prestamos_bibliotecaModel.Editorial">
+        <MappingFragment StoreEntitySet="Editorial">
+          <ScalarProperty Name="id_editorial" ColumnName="id_editorial" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Ejemplar">
+      <EntityTypeMapping TypeName="prestamos_bibliotecaModel.Ejemplar">
+        <MappingFragment StoreEntitySet="Ejemplar">
+          <ScalarProperty Name="id_Ejemplar" ColumnName="id_Ejemplar" />
+          <ScalarProperty Name="Localizacion" ColumnName="Localizacion" />
+          <ScalarProperty Name="id_libro" ColumnName="id_libro" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Libro">
+      <EntityTypeMapping TypeName="prestamos_bibliotecaModel.Libro">
+        <MappingFragment StoreEntitySet="Libro">
+          <ScalarProperty Name="id_Libro" ColumnName="id_Libro" />
+          <ScalarProperty Name="Titulo" ColumnName="Titulo" />
+          <ScalarProperty Name="ISBN" ColumnName="ISBN" />
+          <ScalarProperty Name="id_Editorial" ColumnName="id_Editorial" />
+          <ScalarProperty Name="id_Autor" ColumnName="id_Autor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Prestamo">
+      <EntityTypeMapping TypeName="prestamos_bibliotecaModel.Prestamo">
+        <MappingFragment StoreEntitySet="Prestamo">
+          <ScalarProperty Name="id_prestamo" ColumnName="id_prestamo" />
+          <ScalarProperty Name="FechaPres" ColumnName="FechaPres" />
+          <ScalarProperty Name="FechaDev" ColumnName="FechaDev" />
+          <ScalarProperty Name="id_Libro" ColumnName="id_Libro" />
+          <ScalarProperty Name="id_Usuario" ColumnName="id_Usuario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TipoUsuario">
+      <EntityTypeMapping TypeName="prestamos_bibliotecaModel.TipoUsuario">
+        <MappingFragment StoreEntitySet="TipoUsuario">
+          <ScalarProperty Name="id_tipo" ColumnName="id_tipo" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Usuario">
+      <EntityTypeMapping TypeName="prestamos_bibliotecaModel.Usuario">
+        <MappingFragment StoreEntitySet="Usuario">
+          <ScalarProperty Name="id_Usuario" ColumnName="id_Usuario" />
+          <ScalarProperty Name="Rut" ColumnName="Rut" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Telefono" ColumnName="Telefono" />
+          <ScalarProperty Name="Direccion" ColumnName="Direccion" />
+          <ScalarProperty Name="id_tipo" ColumnName="id_tipo" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="pass" ColumnName="pass" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

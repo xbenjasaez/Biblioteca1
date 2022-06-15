@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2 class="text-center">Iniciar Nuevo Préstamo</h2>
+
+<form method="post" class="needs-validation" novalidate style="width:60%"> 
+
+    <div class="mb-3">
+
+        <label class="form-label">Fecha del Préstamo</label>
+        <input type="date" name="FechaPres" class="form-control" required />
+        <div class="text-danger">@ViewBag.Error1</div>
+    </div>
+
+    <div class="mb-3">
+        <label for="Fecha">Fecha de devolución</label>
+        <input type="date" name="FechaDev" class="form-control" required  />
+        <div class="text-danger">@ViewBag.Error</div>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Libro</label>
+        @Html.DropDownList("id_Libro", null, "--Seleccione--",
+       htmlAttributes: new { @class = "form-control" })
+    </div>
+    <div class="mb-3">
+        <label class="form-label">Usuario</label>
+        @Html.DropDownList("id_Usuario", null, "--Seleccione--",
+       htmlAttributes: new { @class = "form-control" })
+    </div>
+
+    <div class="mb-3 text-end">
+        <a href="/Prestamo/Index" class="btn btn-outline-primary">VOLVER</a>
+        <input type="submit" value="GUARDAR" class="btn btn-success" />
+    </div>
+</form>
+
+<script src="~/Scripts/validacion.js"></script>
+
+

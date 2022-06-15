@@ -1,0 +1,328 @@
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\Bibilioteca_prestamos_EVWEB.dll.config
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\Bibilioteca_prestamos_EVWEB.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\Bibilioteca_prestamos_EVWEB.pdb
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\csc.exe
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\csc.exe.config
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\csc.rsp
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\csi.exe
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\csi.exe.config
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\csi.rsp
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.AppContext.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Console.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Net.Http.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\vbc.exe
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\vbc.exe.config
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\vbc.rsp
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.SqlServer.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\System.Web.Helpers.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\System.Web.Mvc.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\System.Web.Razor.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.SqlServer.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\System.Web.Razor.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\System.Web.Helpers.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\System.Web.Mvc.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Razor.resources.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Webpages.resources.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Helpers.resources.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Mvc.resources.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\obj\Debug\Biblioteca_prestamos_EVWEB.csproj.AssemblyReference.cache
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\obj\Debug\Biblioteca_prestamos_EVWEB.csproj.CoreCompileInputs.cache
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\obj\Debug\Biblioteca_prestamos_EVWEB.csproj.CopyComplete
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\obj\Debug\Bibilioteca_prestamos_EVWEB.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bibilioteca_prestamos_EVWEB\obj\Debug\Bibilioteca_prestamos_EVWEB.pdb
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\Bibilioteca_prestamos_EVWEB.dll.config
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\Bibilioteca_prestamos_EVWEB.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\Bibilioteca_prestamos_EVWEB.pdb
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\csc.exe
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\csc.exe.config
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\csc.rsp
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\csi.exe
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\csi.exe.config
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\csi.rsp
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.AppContext.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Console.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Net.Http.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\vbc.exe
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\vbc.exe.config
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\vbc.rsp
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\System.Web.Helpers.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\System.Web.Mvc.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\System.Web.Razor.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.xml
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\System.Web.Razor.xml
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.xml
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\System.Web.Helpers.xml
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\System.Web.Mvc.xml
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\obj\Debug\Biblioteca_prestamos_EVWEB.csprojAssemblyReference.cache
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\obj\Debug\Biblioteca_prestamos_EVWEB.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\obj\Debug\Biblioteca_prestamos_EVWEB.csproj.CopyComplete
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\obj\Debug\Bibilioteca_prestamos_EVWEB.dll
+C:\Users\Alumnos\Documents\Do the Hustle!\Bibilioteca_prestamos_EVWEB\obj\Debug\Bibilioteca_prestamos_EVWEB.pdb
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\Bibilioteca_prestamos_EVWEB.dll.config
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\Bibilioteca_prestamos_EVWEB.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\Bibilioteca_prestamos_EVWEB.pdb
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\csc.exe
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\csc.exe.config
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\csc.rsp
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\csi.exe
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\csi.exe.config
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\csi.rsp
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.AppContext.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Console.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Net.Http.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\vbc.exe
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\vbc.exe.config
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\vbc.rsp
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.SqlServer.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Helpers.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Mvc.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Razor.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.SqlServer.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Razor.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Helpers.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Mvc.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Razor.resources.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Webpages.resources.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Helpers.resources.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Mvc.resources.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\obj\Debug\Biblioteca_prestamos_EVWEB.csproj.AssemblyReference.cache
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\obj\Debug\Biblioteca_prestamos_EVWEB.csproj.CoreCompileInputs.cache
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\obj\Debug\Biblioteca_prestamos_EVWEB.csproj.CopyComplete
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\obj\Debug\Bibilioteca_prestamos_EVWEB.dll
+C:\Users\naxga\Desktop\Instituto\2 AÑO\1 SEMESTRE\L. prog. WEB\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\obj\Debug\Bibilioteca_prestamos_EVWEB.pdb
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\Bibilioteca_prestamos_EVWEB.dll.config
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\Bibilioteca_prestamos_EVWEB.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\Bibilioteca_prestamos_EVWEB.pdb
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\csc.exe
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\csc.exe.config
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\csc.rsp
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\csi.exe
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\csi.exe.config
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\csi.rsp
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.AppContext.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Console.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Net.Http.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\vbc.exe
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\vbc.exe.config
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\vbc.rsp
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.SqlServer.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Helpers.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Mvc.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Razor.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Razor.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.xml
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\EntityFramework.SqlServer.xml
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Razor.xml
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.xml
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Webpages.Razor.xml
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Helpers.xml
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\System.Web.Mvc.xml
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\obj\Debug\Biblioteca_prestamos_EVWEB.csprojAssemblyReference.cache
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\obj\Debug\Biblioteca_prestamos_EVWEB.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\obj\Debug\Biblioteca_prestamos_EVWEB.csproj.CopyComplete
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\obj\Debug\Bibilioteca_prestamos_EVWEB.dll
+C:\Users\Alumnos\Desktop\Biblioteca_pres_completo\Bilblioteca viernes\Bibilioteca_prestamos_EVWEB\obj\Debug\Bibilioteca_prestamos_EVWEB.pdb
