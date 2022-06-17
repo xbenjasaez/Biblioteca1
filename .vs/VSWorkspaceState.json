@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Biblioteca_pres_completo\\Bilblioteca viernes",
+    "\\Biblioteca_pres_completo\\Bilblioteca viernes\\Bibilioteca_prestamos_EVWEB",
+    "\\Biblioteca_pres_completo\\Bilblioteca viernes\\Bibilioteca_prestamos_EVWEB\\Models",
+    "\\Biblioteca_pres_completo\\Bilblioteca viernes\\Bibilioteca_prestamos_EVWEB\\packages"
   ],
+  "SelectedNode": "\\Biblioteca_pres_completo",
   "PreviewInSolutionExplorer": false
 }
